@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm UNC0V3R3D.</h1>
-<h3 align="center">I'm a student from Germany, I want to study Computer Engineering in the future.</h3>
+<h3 align="center">I'm a student from Germany, I want to study Computer Science in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unc0v3r3d&label=Profile%20views&color=0e75b6&style=flat" alt="unc0v3r3d" /> </p>
 
