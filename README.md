@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://github.com/UNC0V3R3D?tab=projects](https://github.com/UNC0V3R3D?tab=projects)
 
-- Ask me about **Flipper Zero Stuff**
+- Ask me about **Anything**
 
 - How to reach me **unc0v3r3dspam@gmail.com**
 
