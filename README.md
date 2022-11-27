@@ -13,7 +13,7 @@
 
 - Ask me about **Anything**
 
-- How to reach me **unc0v3r3dspam@gmail.com**
+- Reach me on my discord server **https://discord.gg/MPNgMtjAsy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
