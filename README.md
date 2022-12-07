@@ -11,7 +11,7 @@
 
 - All of my projects are available at [https://github.com/UNC0V3R3D?tab=projects](https://github.com/UNC0V3R3D?tab=projects)
 
-- Ask me about **Anything**
+- Ask me about **Anything**, maybe I can help
 
 - Reach me on my discord server **https://discord.gg/MPNgMtjAsy**
 
