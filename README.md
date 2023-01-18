@@ -30,3 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unc0v3r3d&" alt="unc0v3r3d" /></p>
 
+## Patreons:
+```
+● DC
+● Dvbz710
+```
