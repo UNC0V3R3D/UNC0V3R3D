@@ -6,6 +6,8 @@
 
 - Join the community server https://discord.gg/WWQETvS8Vv
 
+- My discord bot: https://discord.com/api/oauth2/authorize?client_id=796031005483073566&permissions=8&scope=bot
+
 - Visit my biggest project [Flipper Zero Badusb Collection](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
 - I’m currently learning **Python**
