@@ -4,13 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unc0v3r3d" alt="unc0v3r3d" /></a> </p>
 
-<h3 align="left">Best Social Media Boosting:</h3>
+<h3 align="left">Discord community:</h3>
 
-https://www.socialscope.space/
+[https://www.socialscope.space/](https://discord.gg/WWQETvS8Vv)
 
 <h3 align="left">Information:</h3>
-
-- Join the community server https://discord.gg/WWQETvS8Vv
 
 - Visit my biggest project [Flipper Zero Badusb Collection](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
