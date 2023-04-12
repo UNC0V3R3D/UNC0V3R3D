@@ -6,7 +6,7 @@
 
 <h3 align="left">Discord community:</h3>
 
-https://discord.gg/WWQETvS8Vv
+
 
 <h3 align="left">Information:</h3>
 
