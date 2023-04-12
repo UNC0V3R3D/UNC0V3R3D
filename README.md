@@ -13,7 +13,7 @@ Currently a student<br>PowerShell scripting is kinda fun
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UNC0V3R3D&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UNC0V3R3D&icon=8&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=UNC0V3R3D&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/UNC0V3R3D) 
