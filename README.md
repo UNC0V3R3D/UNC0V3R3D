@@ -12,8 +12,6 @@
 
 - Visit my biggest project [Flipper Zero Badusb Collection](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 
-- I’m currently learning **Python**
-
 - All of my projects are available at [https://github.com/UNC0V3R3D?tab=projects](https://github.com/UNC0V3R3D?tab=projects)
 
 - Ask me about **Anything**, maybe I can help
