@@ -1,5 +1,5 @@
 # About Me:
-Currently a student<br>PowerShell scriping is kinda fun
+Currently a student<br>PowerShell scripting is kinda fun
 
 
 ## 🌐 Socials:
