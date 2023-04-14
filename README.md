@@ -1,5 +1,5 @@
 # About Me:
-Currently a student<br>PowerShell scripting is kinda fun
+Currently a student<br>Join our new forum: https://www.scriptattack.dev/
 
 
 ## 🌐 Socials:
