@@ -17,7 +17,7 @@ Currently a student<br>Join our new forum: https://www.scriptattack.dev/
 [![](https://visitcount.itsvg.in/api?id=UNC0V3R3D&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/UNC0V3R3D) 
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5HIDDD)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
