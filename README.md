@@ -3,7 +3,7 @@ Greetings, I am **UNC0V3R3D**, a German student looking forward to studying comp
 
 As a red-teamer, I enjoy scanning systems and websites for vulnerabilities to ensure safety for everyone else.
 
-Moreover, in recent months, I have taken a keen interest in hardware hacking. Together with a few of my like-minded friends,<br> I am exploring the depths of this intriguing field. If you want to join the journey of me and some fellow friends in that area,<br> feel free to join the ``Discord server below`` and meet over 1,7k like minded individuals! <br><br>
+Moreover, in recent months, I have taken a keen interest in hardware hacking. Together with a few of my like-minded friends,<br> I am exploring the depths of this intriguing field. If you want to join the journey of me and some fellow friends in that area,<br> feel free to join the ``Discord server below`` and meet over 2.000 like minded individuals! <br><br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WWQETvS8Vv) 
 
 # Professional Pen-Testing:
