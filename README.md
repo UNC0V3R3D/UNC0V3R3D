@@ -1,5 +1,5 @@
 # About Me:
-Hello, I'm **UNC0V3R3D**, a German student passionate about computer science and ethical hacking. Specializing in "red teaming," I actively scan systems for vulnerabilities to enhance cybersecurity.
+Hello, I'm **UNC0V3R3D**, a student passionate about computer science and ethical hacking. Specializing in "red teaming," I actively scan systems for vulnerabilities to enhance cybersecurity.
 
 Recently, I've delved into hardware hacking, collaborating with like-minded individuals. Join me and over **4,000** members on our Discord server:
 
