@@ -1,7 +1,7 @@
 # About Me:
 Hello, I'm **UNC0V3R3D**, a student passionate about computer science and ethical hacking. Specializing in "red teaming," I actively scan systems for vulnerabilities to enhance cybersecurity.
 
-Recently, I've delved into hardware hacking, collaborating with like-minded individuals. Join me and over **4,000** members on our Discord server:
+Recently, I've delved into hardware hacking, collaborating with like-minded individuals. Join me and over **5,000** members on our Discord server:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WWQETvS8Vv)
 
